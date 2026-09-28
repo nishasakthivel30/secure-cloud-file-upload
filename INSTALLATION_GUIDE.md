@@ -529,9 +529,8 @@ We welcome contributions! To contribute:
 
 ### Contact
 
-- **Email:** [your-email@example.com]
-- **GitHub:** [your-github-username]
-- **Website:** [your-website.com]
+- **Email:** [nishasakthivel30@gmail.com]
+- **GitHub:** [https://github.com/nishasakthivel30]
 
 ---
 
