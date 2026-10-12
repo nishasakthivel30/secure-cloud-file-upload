@@ -1,7 +1,7 @@
 """
 Secure Cloud Storage Application with Hybrid Encryption and Steganography
 ==========================================================================
-Author: [Your Name]
+Author: [Nisha S]
 Date: January 2026
 Version: 2.0
 
